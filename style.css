@@ -240,17 +240,11 @@ footer {
     padding: 30px 0;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:1300px) {
     .nav {
         max-width: 90vw;
     }
-    .main {
-    height:70vh;
-}
 
-.main .box {
-    height: 70vh;
-}
     .first {
         flex-wrap: wrap;
         text-align: center;
@@ -334,4 +328,13 @@ footer {
         font-size: 14px;
     }
 
+}
+@media screen and (max-width:600px){
+    .main {
+    height:70vh;
+}
+
+.main .box {
+    height: 70vh;
+}
 }
