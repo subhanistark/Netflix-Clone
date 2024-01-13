@@ -244,6 +244,13 @@ footer {
     .nav {
         max-width: 90vw;
     }
+    .main {
+    height:70vh;
+}
+
+.main .box {
+    height: 70vh;
+}
     .first {
         flex-wrap: wrap;
         text-align: center;
