@@ -15,12 +15,12 @@ body {
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
-    height: 70vh;
+    height: 644px;
     position: relative;
 }
 
 .main .box {
-    height: 70vh;
+    height: 644px;
     width: 100%;
     position: absolute;
     top: 0%;
